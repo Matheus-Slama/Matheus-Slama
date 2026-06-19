@@ -2,7 +2,7 @@
   README.md de perfil — Matheus Slama
   Conceito visual: boutique sofisticada de perfume · preto absoluto · dourado champagne · clean deluxe
   Repositório recomendado: https://github.com/matheusslama/matheusslama
--->
+
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=285&section=header&color=0:000000,45:0B0B0B,100:C9A227&text=MATHEUS%20SLAMA&fontColor=F7E7B0&fontSize=56&fontAlignY=38&desc=Front-End%20Specialist%20%7C%20AI%20Interfaces%20%7C%20Clean%20Deluxe%20DX&descSize=17&descAlignY=58&animation=fadeIn" alt="Matheus Slama — Front-End Specialist" />
@@ -166,3 +166,4 @@ acabamento         → microdetalhes que elevam a percepção do produto
   <b>“Transformo interfaces em experiências digitais de luxo.”</b><br />
   <sub>Matheus Slama · Front-End Specialist · AI Interfaces · Clean Deluxe DX</sub>
 </p>
+-->
