@@ -1,28 +1,168 @@
-<p align="center"> <!-- Recomenda-se substituir este banner por uma imagem própria (1200x400) com fundo preto e detalhes dourados para evocar luxo. Basta fazer upload do arquivo na pasta do repositório e alterar o atributo src abaixo. --> <!-- <img src="seu-banner.png" width="100%" alt="Banner luxuoso"/> --> </p> <h1 align="center" style="color:#CFAE34;">👋 Olá, eu sou <strong>Matheus Slama</strong></h1> <h3 align="center" style="color:#CFAE34;">Desenvolvedor&nbsp;Front‑End&nbsp;Sênior · Designer&nbsp;Clean&nbsp;Deluxe · Criador&nbsp;de&nbsp;Experiências&nbsp;Digitais&nbsp;de&nbsp;Luxo</h3>
-🧭 Sobre mim
+<!--
+  README.md de perfil — Matheus Slama
+  Conceito visual: boutique sofisticada de perfume · preto absoluto · dourado champagne · clean deluxe
+  Repositório recomendado: https://github.com/matheusslama/matheusslama
+-->
 
-Sou um desenvolvedor front‑end sênior apaixonado por tecnologia, design moderno e performance. Trabalho com foco em criar soluções digitais elegantes, escaláveis e com excelente experiência do usuário. Localizado em Chapecó, Santa Catarina (Brasil), busco elevar cada projeto a um novo patamar de excelência com uma estética clean‑deluxe em preto e dourado.
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=285&section=header&color=0:000000,45:0B0B0B,100:C9A227&text=MATHEUS%20SLAMA&fontColor=F7E7B0&fontSize=56&fontAlignY=38&desc=Front-End%20Specialist%20%7C%20AI%20Interfaces%20%7C%20Clean%20Deluxe%20DX&descSize=17&descAlignY=58&animation=fadeIn" alt="Matheus Slama — Front-End Specialist" />
+</p>
 
-⚡ Minhas Competências
-Tecnologias principais: HTML5, CSS3/SASS, JavaScript (ES6+), TypeScript, React, Next.js
-Frameworks e bibliotecas: Tailwind CSS, Chakra UI, Bootstrap, Styled Components
-Ferramentas de design: Figma, Adobe XD, Design Systems, Prototipagem
-Boas práticas: Acessibilidade (WCAG), SEO, performance web, metodologias ágeis
-Outras tecnologias: Node.js, Express, integração com APIs REST/GraphQL
-<p align="center"> <!-- Ícones do seu stack; para adicionar/remover tecnologias, altere a lista de identificadores após i= --> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,nodejs,express" alt="Ícones de tecnologias" height="50"/> </p>
-🌟 Projetos em destaque
-Projeto 1 – Breve descrição do projeto ou produto que represente seu trabalho de luxo.
-Projeto 2 – Breve descrição do projeto ou produto.
-Projeto 3 – Destaque um projeto open source ou pessoal que demonstre suas competências.
-📈 Estatísticas do GitHub
-<p align="center"> <!-- O tema escuro com cores personalizadas ajuda a harmonizar com a estética preta e dourada. Substitua "YOUR_USERNAME" pelo seu usuário do GitHub. --> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=000000&title_color=CFAE34&text_color=AAAAAA&icon_color=CFAE34" alt="Estatísticas do GitHub" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=000000&title_color=CFAE34&text_color=AAAAAA&icon_color=CFAE34" alt="Linguagens mais usadas" height="160" /> </p> <!-- Se deseja adicionar um gráfico de streak (contribuições consecutivas), habilite a linha abaixo substituindo YOUR_USERNAME. --> <!-- <p align="center"> <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&background=000000&border=CFAE34&stroke=CFAE34" alt="Streak do GitHub" /> </p> -->
-🏆 Conquistas
-<p align="center"> <!-- O troféu exibe conquistas como commits, stars, seguidores e repositórios. --> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&title=Commit,Stars,Followers,Repositories&title_color=CFAE34&text_color=AAAAAA" alt="Troféus do GitHub" /> </p>
-📫 Como me encontrar
-<p align="center"> <!-- Substitua os links pelos seus perfis e emails. As cores são personalizadas para o tema preto (#0A0A0A) com detalhes dourados (#CFAE34). --> <a href="mailto:seu.email@exemplo.com" target="_blank"> <img src="https://img.shields.io/badge/E‑mail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=CFAE34&labelColor=0A0A0A" alt="E‑mail"/> </a> <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=CFAE34&labelColor=0A0A0A" alt="LinkedIn"/> </a> <a href="https://instagram.com/seu-usuario" target="_blank"> <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=CFAE34&labelColor=0A0A0A" alt="Instagram"/> </a> <a href="https://seu-portfolio.com" target="_blank"> <img src="https://img.shields.io/badge/Portf%C3%B3lio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=CFAE34&labelColor=0A0A0A" alt="Portfólio"/> </a> </p>
-<details> <summary><strong>⚙️ Ferramentas & Recursos usados neste perfil</strong></summary>
-Skillicons.dev para os ícones das tecnologias.
-Badges/Shields.io para os botões de contato.
-GitHub Readme Stats para as cartas de estatísticas.
-GitHub Profile Trophy para as conquistas.
-</details> <p align="center"><i>"Transformo ideias em experiências digitais de luxo."</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=26&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=900&lines=Interfaces+com+presen%C3%A7a+de+marca;Front-end+premium+com+IA+integrada;UX+refinada+%2B+DX+mais+bonita;Digital+experiences+with+luxury+finish" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/matheusslama" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@matheusslama-0B0B0B?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000" alt="GitHub @matheusslama" />
+  </a>
+  <a href="mailto:matheusslama@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-matheusslama%40outlook.com-0B0B0B?style=for-the-badge&logo=microsoftoutlook&logoColor=D4AF37&labelColor=000000" alt="Email Matheus Slama" />
+  </a>
+  <img src="https://img.shields.io/badge/Chapec%C3%B3%2C%20SC-Brasil-0B0B0B?style=for-the-badge&logo=googlemaps&logoColor=D4AF37&labelColor=000000" alt="Chapecó, Santa Catarina, Brasil" />
+</p>
+
+<br />
+
+<p align="center">
+  <b>Maison Digital · Edição Noir & Gold</b><br />
+  <sub>Desenvolvimento front-end, design sofisticado e integração de IA para experiências digitais de alto padrão.</sub>
+</p>
+
+---
+
+## ✦ A Essência
+
+Sou **Matheus Slama**, especialista em **Front-End** com olhar forte para **design moderno**, **performance** e **experiência digital premium**.
+
+Minha assinatura é transformar interfaces em vitrines elegantes: rápidas, responsivas, bem compostas e com acabamento visual de produto sofisticado. Trabalho com a união entre **código limpo**, **design clean deluxe** e **integração de IA no front-end**, criando experiências que parecem simples para o usuário, mas são muito bem arquitetadas por trás.
+
+Gosto de construir telas com presença de marca: preto absoluto, dourado discreto, contraste bem dosado, microinterações elegantes e uma experiência de uso fluida do primeiro clique até a última conversão.
+
+---
+
+## ✦ Notas da Minha Assinatura Técnica
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Notas de Saída</b><br />React · Next.js · TypeScript</td>
+    <td align="center"><b>Notas de Coração</b><br />UI Premium · Figma · Design Systems</td>
+    <td align="center"><b>Notas de Fundo</b><br />Performance · SEO · Acessibilidade</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Acorde de IA</b><br />AI Interfaces · Chat UI · APIs</td>
+    <td align="center"><b>DX Refinada</b><br />Clean Code · Componentização · Padrões</td>
+    <td align="center"><b>Acabamento</b><br />Responsivo · Escalável · Elegante</td>
+  </tr>
+</table>
+
+---
+
+## ✦ Competências
+
+### Front-End Premium
+
+- Interfaces modernas com **React**, **Next.js**, **TypeScript** e **JavaScript**.
+- Layouts responsivos com **Tailwind CSS**, **CSS3**, **SASS** e componentes reutilizáveis.
+- Construção de páginas com foco em **performance**, **SEO**, **acessibilidade** e experiência do usuário.
+
+### IA aplicada ao Front-End
+
+- Integração de **IA no front-end** para criar experiências mais inteligentes e úteis.
+- Interfaces conversacionais, fluxos com prompts, feedback visual e estados de carregamento bem desenhados.
+- Camadas de UI para produtos com IA, copilots, assistentes, automações e consumo de APIs inteligentes.
+- Experiências com **DX mais bonita**: arquitetura clara, componentes previsíveis e manutenção agradável.
+
+### Design Clean Deluxe
+
+- Estética sofisticada inspirada em marcas premium, boutiques e perfumaria de luxo.
+- Paleta visual com preto, dourado, contraste refinado e hierarquia elegante.
+- Prototipagem, composição visual, design systems e acabamento de interface.
+
+---
+
+## ✦ Stack & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents,figma,nodejs,express,git,github,vscode&theme=dark&perline=7" alt="Stack de Matheus Slama" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-0B0B0B?style=for-the-badge&logo=html5&logoColor=D4AF37&labelColor=000000" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0B0B0B?style=for-the-badge&logo=css3&logoColor=D4AF37&labelColor=000000" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=for-the-badge&logo=javascript&logoColor=D4AF37&labelColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-0B0B0B?style=for-the-badge&logo=typescript&logoColor=D4AF37&labelColor=000000" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-0B0B0B?style=for-the-badge&logo=react&logoColor=D4AF37&labelColor=000000" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0B0B0B?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37&labelColor=000000" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0B0B0B?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37&labelColor=000000" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Figma-0B0B0B?style=for-the-badge&logo=figma&logoColor=D4AF37&labelColor=000000" alt="Figma" />
+  <img src="https://img.shields.io/badge/AI_Interfaces-0B0B0B?style=for-the-badge&logo=openai&logoColor=D4AF37&labelColor=000000" alt="AI Interfaces" />
+</p>
+
+---
+
+## ✦ Coleções Digitais que Eu Crio
+
+- **Landing pages premium** com visual forte, copy clara e foco em conversão.
+- **Interfaces SaaS e dashboards** com organização, performance e experiência limpa.
+- **E-commerces e vitrines digitais** com estética sofisticada, responsiva e comercial.
+- **Produtos com IA no front-end** usando chat UI, copilots, automações e respostas inteligentes.
+- **Design systems** com componentes consistentes, escaláveis e fáceis de manter.
+- **Experiências mobile-first** com acabamento visual de alto padrão.
+
+---
+
+## ✦ GitHub Noir Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusslama&show_icons=true&hide_border=true&bg_color=0B0B0B&title_color=D4AF37&text_color=F3E8C2&icon_color=D4AF37&ring_color=D4AF37" alt="Estatísticas GitHub de Matheus Slama" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusslama&layout=compact&hide_border=true&bg_color=0B0B0B&title_color=D4AF37&text_color=F3E8C2" alt="Linguagens mais usadas por Matheus Slama" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=matheusslama&hide_border=true&background=0B0B0B&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=F3E8C2&sideNums=F3E8C2&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=F3E8C2" alt="GitHub streak de Matheus Slama" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusslama&bg_color=0B0B0B&color=F3E8C2&line=D4AF37&point=F7E7B0&area=true&hide_border=true&custom_title=Atividade%20GitHub%20%7C%20Noir%20%26%20Gold" alt="Gráfico de atividade GitHub de Matheus Slama" />
+</p>
+
+---
+
+## ✦ Valores de Produto
+
+```txt
+luxo visual        → interface limpa, precisa e memorável
+performance        → experiência rápida, fluida e confiável
+ia aplicada        → tecnologia útil, discreta e bem integrada
+componentização    → código elegante, reutilizável e escalável
+acabamento         → microdetalhes que elevam a percepção do produto
+```
+
+---
+
+## ✦ Contato
+
+<p align="center">
+  <a href="mailto:matheusslama@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-matheusslama%40outlook.com-0B0B0B?style=for-the-badge&logo=microsoftoutlook&logoColor=D4AF37&labelColor=000000" alt="Email Matheus Slama" />
+  </a>
+  <a href="https://github.com/matheusslama" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@matheusslama-0B0B0B?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000" alt="GitHub Matheus Slama" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Chapecó, Santa Catarina · Brasil</sub>
+</p>
+
+---
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,50:0B0B0B,100:C9A227" alt="Footer dourado" />
+</p>
+
+<p align="center">
+  <b>“Transformo interfaces em experiências digitais de luxo.”</b><br />
+  <sub>Matheus Slama · Front-End Specialist · AI Interfaces · Clean Deluxe DX</sub>
+</p>
