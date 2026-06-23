@@ -31,21 +31,39 @@
 
 <h2 align="center">Main Skills</h2>
 
-<h2 align="center">Main Skills</h2>
-
 <p align="center">
   <img
+    width="100%"
     src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,ember,nodejs,nestjs,postgres,mongodb,sass,styledcomponents,cypress,figma,xd,ps,python,tensorflow,pytorch,opencv,aws,gcp,linux,ubuntu,docker,kubernetes,git,github,vscode,netlify&perline=8&theme=light"
     alt="Main Skills"
   />
 </p>
+
 <br />
 
 <h2 align="center">Estatísticas</h2>
 
-<div align="center">
-  <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=matheus-slama&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&line_height=28&card_width=420" alt="Estatísticas do GitHub" />
-  <img width="49%" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-slama&layout=compact&langs_count=6&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&card_width=420&card_height=220" alt="Linguagens mais usadas" />
+<div align="center" style="width: 100%;">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img
+          width="100%"
+          height="220"
+          src="https://github-readme-stats.vercel.app/api?username=matheus-slama&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&line_height=28"
+          alt="Estatísticas do GitHub"
+        />
+      </td>
+      <td width="50%" align="center">
+        <img
+          width="100%"
+          height="220"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-slama&layout=compact&langs_count=6&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2"
+          alt="Linguagens mais usadas"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
@@ -56,17 +74,37 @@
   <samp>Conecte-se comigo e acompanhe meus projetos:</samp>
 </p>
 
-<p align="center">
-  <a href="https://github.com/matheus-slama">
-    <img src="https://img.shields.io/badge/GitHub-matheus--slama-282a36?style=for-the-badge&logo=github&logoColor=f8f8f2&labelColor=44475a" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/matheus-slama/">
-    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Slama-bd93f9?style=for-the-badge&logo=linkedin&logoColor=282a36&labelColor=44475a" alt="LinkedIn" />
-  </a>
-  <a href="https://www.buymeacoffee.com/matheus-slama">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support%20me-ff79c6?style=for-the-badge&logo=buymeacoffee&logoColor=282a36&labelColor=44475a" alt="Buy Me a Coffee" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/matheus-slama">
+        <img
+          width="100%"
+          src="https://img.shields.io/badge/GitHub-matheus--slama-282a36?style=for-the-badge&logo=github&logoColor=f8f8f2&labelColor=44475a"
+          alt="GitHub"
+        />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://www.linkedin.com/in/matheus-slama/">
+        <img
+          width="100%"
+          src="https://img.shields.io/badge/LinkedIn-Matheus%20Slama-bd93f9?style=for-the-badge&logo=linkedin&logoColor=282a36&labelColor=44475a"
+          alt="LinkedIn"
+        />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://www.buymeacoffee.com/matheus-slama">
+        <img
+          width="100%"
+          src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support%20me-ff79c6?style=for-the-badge&logo=buymeacoffee&logoColor=282a36&labelColor=44475a"
+          alt="Buy Me a Coffee"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
