@@ -15,7 +15,7 @@
 
 <br />
 
-<h3 align="center">Sobre mim</h3>
+<h2 align="center">Sobre mim</h2>
 
 <samp>
 
@@ -29,7 +29,7 @@
 
 <br />
 
-<h3 align="center">Main Skills</h3>
+<h2 align="center">Main Skills</h2>
 <p align="center">
   <img width="100%" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,ember&theme=light" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Vue and Ember" />
 </p>
@@ -60,17 +60,16 @@
 
 <br />
 
-<h3 align="center">📊 Estatísticas</h3>
+<h2 align="center">Estatísticas</h2>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=matheus-slama&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2" alt="Estatísticas do GitHub" />
-  <br />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-slama&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2" alt="Linguagens mais usadas" />
+  <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=matheus-slama&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&line_height=28&card_width=420" alt="Estatísticas do GitHub" />
+  <img width="49%" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-slama&layout=compact&langs_count=6&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&card_width=420&card_height=220" alt="Linguagens mais usadas" />
 </div>
 
 <br />
 
-<h3 align="center">Contato</h3>
+<h2 align="center">Contato</h2>
 
 <p align="center">
   <samp>Conecte-se comigo e acompanhe meus projetos:</samp>
