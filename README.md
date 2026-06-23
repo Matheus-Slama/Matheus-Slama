@@ -29,43 +29,33 @@
 
 <br />
 
-<h3 align="center">Projetos em destaque</h3>
-
-<h4 align="center">Portfólio</h4>
-
-<p align="center">
-  <samp>Repositório dedicado aos meus projetos, interfaces, estudos e experimentos em desenvolvimento frontend, integrações e engenharia de software.</samp>
-</p>
-
-<br />
-
 <h3 align="center">Main Skills</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,ember&theme=light" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Vue and Ember" />
+  <img width="100%" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,ember&theme=light" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Vue and Ember" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,prisma,postgres,mysql,mongodb,redis&theme=light" alt="Node.js, NestJS, Express, GraphQL, Prisma, PostgreSQL, MySQL, MongoDB and Redis" />
+  <img width="100%" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,prisma,postgres,mysql,mongodb,redis&theme=light" alt="Node.js, NestJS, Express, GraphQL, Prisma, PostgreSQL, MySQL, MongoDB and Redis" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,styledcomponents,materialui,vite,webpack,babel,jest&theme=light" alt="Tailwind CSS, Bootstrap, Sass, Styled Components, Material UI, Vite, Webpack, Babel and Jest" />
+  <img width="100%" src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,styledcomponents,materialui,vite,webpack,babel,jest&theme=light" alt="Tailwind CSS, Bootstrap, Sass, Styled Components, Material UI, Vite, Webpack, Babel and Jest" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cypress,figma,xd,ps,blender,flutter,dart,rust,pug&theme=light" alt="Cypress, Figma, Adobe XD, Photoshop, Blender, Flutter, Dart, Rust and Pug" />
+  <img width="100%" src="https://skillicons.dev/icons?i=cypress,figma,xd,ps,blender,flutter,dart,rust,pug&theme=light" alt="Cypress, Figma, Adobe XD, Photoshop, Blender, Flutter, Dart, Rust and Pug" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,opencv,aws,gcp,firebase,supabase&theme=light" alt="Python, FastAPI, TensorFlow, PyTorch, OpenCV, AWS, Google Cloud, Firebase and Supabase" />
+  <img width="100%" src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,opencv,aws,gcp,firebase,supabase&theme=light" alt="Python, FastAPI, TensorFlow, PyTorch, OpenCV, AWS, Google Cloud, Firebase and Supabase" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,nginx,git,github,vscode,postman&theme=light" alt="Linux, Ubuntu, Docker, Kubernetes, Nginx, Git, GitHub, VS Code and Postman" />
+  <img width="100%" src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,nginx,git,github,vscode,postman&theme=light" alt="Linux, Ubuntu, Docker, Kubernetes, Nginx, Git, GitHub, VS Code and Postman" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,godot,androidstudio,electron,tauri,vercel,netlify,cloudflare&theme=light" alt="Unity, Godot, Android Studio, Electron, Tauri, Vercel, Netlify and Cloudflare" />
+  <img width="100%" src="https://skillicons.dev/icons?i=unity,godot,androidstudio,electron,tauri,vercel,netlify,cloudflare&theme=light" alt="Unity, Godot, Android Studio, Electron, Tauri, Vercel, Netlify and Cloudflare" />
 </p>
 
 <br />
