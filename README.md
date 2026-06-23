@@ -82,8 +82,9 @@
   <a href="https://www.linkedin.com/in/matheus-slama/">
     <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Slama-bd93f9?style=for-the-badge&logo=linkedin&logoColor=282a36&labelColor=44475a" alt="LinkedIn" />
   </a>
-  
-  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="MatheusSlama" data-color="#BD5FFF" data-emoji="🍺"  data-font="Cookie" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+  <a href="https://www.buymeacoffee.com/matheus-slama">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support%20me-ff79c6?style=for-the-badge&logo=buymeacoffee&logoColor=282a36&labelColor=44475a" alt="Buy Me a Coffee" />
+  </a>
 </p>
 
 <br />
