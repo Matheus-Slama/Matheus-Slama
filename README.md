@@ -43,28 +43,26 @@
 
 <h2 align="center">Estatísticas</h2>
 
-<div align="center" style="width: 100%;">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img
-          width="100%"
-          height="220"
-          src="https://github-readme-stats.vercel.app/api?username=matheus-slama&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&line_height=28"
-          alt="Estatísticas do GitHub"
-        />
-      </td>
-      <td width="50%" align="center">
-        <img
-          width="100%"
-          height="220"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-slama&layout=compact&langs_count=6&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2"
-          alt="Linguagens mais usadas"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none;">
+      <img
+        width="100%"
+        height="220"
+        src="https://github-readme-stats.vercel.app/api?username=matheus-slama&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&line_height=28"
+        alt="Estatísticas do GitHub"
+      />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img
+        width="100%"
+        height="220"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-slama&layout=compact&langs_count=6&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2"
+        alt="Linguagens mais usadas"
+      />
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -74,9 +72,9 @@
   <samp>Conecte-se comigo e acompanhe meus projetos:</samp>
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none;">
+  <tr style="border: none;">
+    <td width="33%" align="center" style="border: none;">
       <a href="https://github.com/matheus-slama">
         <img
           width="100%"
@@ -85,7 +83,7 @@
         />
       </a>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" style="border: none;">
       <a href="https://www.linkedin.com/in/matheus-slama/">
         <img
           width="100%"
@@ -94,7 +92,7 @@
         />
       </a>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" style="border: none;">
       <a href="https://www.buymeacoffee.com/matheus-slama">
         <img
           width="100%"
@@ -104,6 +102,7 @@
       </a>
     </td>
   </tr>
+</table>
 </table>
 
 <br />
