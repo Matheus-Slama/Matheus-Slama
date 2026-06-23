@@ -30,34 +30,35 @@
 <br />
 
 <h2 align="center">Main Skills</h2>
+<h2 align="center">Main Skills</h2>
+
 <p align="center">
   <img width="100%" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,ember&theme=light" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Vue and Ember" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,prisma,postgres,mysql,mongodb,redis&theme=light" alt="Node.js, NestJS, Express, GraphQL, Prisma, PostgreSQL, MySQL, MongoDB and Redis" />
+  <img width="100%" src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb&theme=light" alt="Node.js, NestJS, PostgreSQL and MongoDB" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,styledcomponents,materialui,vite,webpack,babel,jest&theme=light" alt="Tailwind CSS, Bootstrap, Sass, Styled Components, Material UI, Vite, Webpack, Babel and Jest" />
+  <img width="100%" src="https://skillicons.dev/icons?i=sass,styledcomponents&theme=light" alt="Sass and Styled Components" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=cypress,figma,xd,ps,blender,flutter,dart,rust,pug&theme=light" alt="Cypress, Figma, Adobe XD, Photoshop, Blender, Flutter, Dart, Rust and Pug" />
+  <img width="100%" src="https://skillicons.dev/icons?i=cypress,figma,xd,ps&theme=light" alt="Cypress, Figma, Adobe XD and Photoshop" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,opencv,aws,gcp,firebase,supabase&theme=light" alt="Python, FastAPI, TensorFlow, PyTorch, OpenCV, AWS, Google Cloud, Firebase and Supabase" />
+  <img width="100%" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,aws,gcp&theme=light" alt="Python, TensorFlow, PyTorch, OpenCV, AWS and Google Cloud" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,nginx,git,github,vscode,postman&theme=light" alt="Linux, Ubuntu, Docker, Kubernetes, Nginx, Git, GitHub, VS Code and Postman" />
+  <img width="100%" src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,git,github,vscode&theme=light" alt="Linux, Ubuntu, Docker, Kubernetes, Git, GitHub and VS Code" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=unity,godot,androidstudio,electron,tauri,vercel,netlify,cloudflare&theme=light" alt="Unity, Godot, Android Studio, Electron, Tauri, Vercel, Netlify and Cloudflare" />
+  <img width="100%" src="https://skillicons.dev/icons?i=netlify&theme=light" alt="Netlify" />
 </p>
-
 <br />
 
 <h2 align="center">Estatísticas</h2>
