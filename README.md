@@ -42,30 +42,6 @@
 <br />
 
 <h2 align="center">Estatísticas</h2>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" align="center" style="border: none;">
-      <img
-        width="100%"
-        height="220"
-        src="https://github-readme-stats.vercel.app/api?username=matheus-slama&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&line_height=28"
-        alt="Estatísticas do GitHub"
-      />
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img
-        width="100%"
-        height="220"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-slama&layout=compact&langs_count=6&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2"
-        alt="Linguagens mais usadas"
-      />
-    </td>
-  </tr>
-</table>
-
-<br />
-
 <div align="center">
   <img
     width="49%"
