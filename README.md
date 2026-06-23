@@ -30,34 +30,14 @@
 <br />
 
 <h2 align="center">Main Skills</h2>
+
 <h2 align="center">Main Skills</h2>
 
 <p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,ember&theme=light" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Vue and Ember" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb&theme=light" alt="Node.js, NestJS, PostgreSQL and MongoDB" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=sass,styledcomponents&theme=light" alt="Sass and Styled Components" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=cypress,figma,xd,ps&theme=light" alt="Cypress, Figma, Adobe XD and Photoshop" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,aws,gcp&theme=light" alt="Python, TensorFlow, PyTorch, OpenCV, AWS and Google Cloud" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,git,github,vscode&theme=light" alt="Linux, Ubuntu, Docker, Kubernetes, Git, GitHub and VS Code" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=netlify&theme=light" alt="Netlify" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,ember,nodejs,nestjs,postgres,mongodb,sass,styledcomponents,cypress,figma,xd,ps,python,tensorflow,pytorch,opencv,aws,gcp,linux,ubuntu,docker,kubernetes,git,github,vscode,netlify&perline=8&theme=light"
+    alt="Main Skills"
+  />
 </p>
 <br />
 
